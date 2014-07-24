@@ -1,0 +1,15 @@
+{
+    "name": "frank/php-simple-html-dom-parser",
+    "description": "PHP Simple HTML DOM Parser. A php based DOM parser.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frank Perez",
+            "email": "frank@frankperez.net"
+        }
+    ],
+    "autoload": {
+        "classmap": ["src"]
+    }, 
+    "require": {}
+}
